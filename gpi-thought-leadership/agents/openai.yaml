@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPI Thought Leadership"
+  short_description: "Brand-led articles with Fable and useful visuals"
+  default_prompt: "Use $gpi-thought-leadership to create a sourced thought-leadership article with Fable 5.1, useful branded visuals, and a measured OpenRouter budget."

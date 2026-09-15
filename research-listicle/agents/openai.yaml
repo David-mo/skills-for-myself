@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Listicle"
+  short_description: "Sourced agency listicles with editorial gates"
+  default_prompt: "Use $research-listicle to write a researched listicle about top UGC agencies in Miami."

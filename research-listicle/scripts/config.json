@@ -1,0 +1,14 @@
+{
+  "models": {
+    "extract": "google/gemini-3.8-flash",
+    "draft": "deepseek/deepseek-v4.1-flash",
+    "verify": "google/gemini-3.8-flash"
+  },
+  "limits": {"search": 20, "extract": 8, "worker": 10},
+  "max_input_bytes": 60000,
+  "max_output_tokens": {"extract": 6000, "draft": 8000, "verify": 3500},
+  "key_files": {
+    "tavily": "~/.config/listicle-research/tavily-key",
+    "openrouter": "~/.config/deepastra/openrouter-key"
+  }
+}
