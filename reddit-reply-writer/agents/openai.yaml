@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reddit Reply Writer"
+  short_description: "Write useful Reddit replies with GEO evidence checks"
+  default_prompt: "Use $reddit-reply-writer to draft relevant Reddit answers in our established voice and review their GEO fit."
